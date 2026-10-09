@@ -1,7 +1,5 @@
 # miniprojectpcd_
 
-# miniproject-ocr-ijazah
-
 ## Mini Project: OCR Nomor Ijazah dan Deteksi Indikasi Tanda Tangan
 
 ### 1. Deskripsi Proyek
